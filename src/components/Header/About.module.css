@@ -1,0 +1,12 @@
+.scrollbarHide {
+
+    scrollbar-width: none;
+}
+
+.show{
+    opacity: 1;
+}
+
+.hiddenOpacity{
+    opacity: 0;
+}
